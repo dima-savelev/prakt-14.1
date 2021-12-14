@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prakt 13.1", "prakt 13.1\prakt 13.1.csproj", "{229542A1-F1BB-45BF-9AAD-A656F4348623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMas", "LibMas\LibMas.csproj", "{C119DA43-D14A-4AFD-8EDB-1C9B0EA28625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229542A1-F1BB-45BF-9AAD-A656F4348623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229542A1-F1BB-45BF-9AAD-A656F4348623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229542A1-F1BB-45BF-9AAD-A656F4348623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229542A1-F1BB-45BF-9AAD-A656F4348623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C119DA43-D14A-4AFD-8EDB-1C9B0EA28625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C119DA43-D14A-4AFD-8EDB-1C9B0EA28625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C119DA43-D14A-4AFD-8EDB-1C9B0EA28625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C119DA43-D14A-4AFD-8EDB-1C9B0EA28625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABE817F-1530-491C-A94C-7BAABAE34B97}
+	EndGlobalSection
+EndGlobal
